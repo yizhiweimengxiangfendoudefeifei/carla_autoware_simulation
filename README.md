@@ -11,4 +11,5 @@ This is a carla's simulation that integrated autoware.
     catkin_make  
   6.在bsahrc中加入source,记得换用户名navigation  
     source /home/navigation/catkin/devel/setup.bash  
- # 其他相关操作见：https://blog.csdn.net/qq_40252459/article/details/123736427?spm=1001.2014.3001.5501
+ # 其他相关操作见：  
+ https://blog.csdn.net/qq_40252459/article/details/123736427?spm=1001.2014.3001.5501
